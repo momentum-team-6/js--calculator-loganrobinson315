@@ -1,0 +1,137 @@
+.flexbox-one {
+    display: flex;
+
+}
+
+.flexbox-two {
+    display: flex;
+}
+
+.flexbox-three {
+    display: flex;
+}
+
+.flexbox-four {
+    display: flex;
+}
+
+.flexbox-five {
+    display: flex;
+}
+
+p {
+    border: solid;
+
+    margin: 30px;
+    background-color: aquamarine;
+
+}
+
+.clear {
+    padding: 30px;
+    margin: 0px;
+}
+
+.output {
+    margin: 0px;
+    margin-right: 170px;
+    padding: 30px
+    
+    
+}
+
+.seven {
+    padding: 30px;
+    margin: 0px;
+    
+   
+}
+
+.eight {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.nine {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.slash {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.four {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.five {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.six {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.multiply {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.one {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.two {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.three {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.minus {
+    padding: 30px;
+    margin: 0px;
+   
+}
+.zero {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.period {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.equals {
+    padding: 30px;
+    margin: 0px;
+   
+}
+
+.plus {
+    padding: 30px;
+    margin: 0px;
+   
+}
