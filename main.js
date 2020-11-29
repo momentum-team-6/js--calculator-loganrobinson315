@@ -19,3 +19,5 @@ document.querySelector('.clear').addEventListener('click', function (event) {
     const display = document.querySelector('#output')
     display.innerHTML = event.target.innerHTML= ""
 })
+
+

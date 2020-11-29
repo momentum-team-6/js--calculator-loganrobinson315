@@ -1,0 +1,126 @@
+.row-one {
+    display: flex;
+}
+
+.row-two {
+    display: flex;
+}
+
+.row-three {
+    display: flex;
+}
+
+.row-four {
+    display: flex;
+}
+
+.row-five {
+    display: flex;
+}
+
+.button {
+    font-size: 32px;
+    padding: 32px;
+    background-color: #8bcf7a;
+    border-width: 1px;
+    border-color: black;
+}
+
+.clear {
+    font-size: 32px;
+    padding: 32px;
+    background-color: #8bcf7a;
+    border-width: 1px;
+    border-color: black;
+    
+}
+
+.output {
+    font-size: 32px;
+    padding: 32px 86px;
+    background-color: #bfe8b5;
+    border-width: 1px;
+    border-color: black;
+}
+
+.divide {
+    font-size: 32px;
+    padding: 32px;
+    background-color: #bfe8b5;
+    border-width: 1px;
+    border-color: black;
+}
+
+.multiply {
+    font-size: 32px;
+    padding: 32px;
+    background-color: #bfe8b5;
+    border-width: 1px;
+    border-color: black;
+}
+
+.subtract {
+    font-size: 32px;
+    padding: 32px;
+    background-color: #bfe8b5;
+    border-width: 1px;
+    border-color: black;
+}
+
+.equals {
+    font-size: 32px;
+    padding: 32px;
+    background-color: #8bcf7a;
+    border-width: 1px;
+    border-color: black;
+}
+
+.add {
+    font-size: 32px;
+    padding: 32px;
+    background-color: #bfe8b5;
+    border-width: 1px;
+    border-color: black;
+}
+
+.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  .clear:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  .equals:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  .add:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  .multiply:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  .subtract:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  .add:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+  .divide:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+
+
+
